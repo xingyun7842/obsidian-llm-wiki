@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian LLM Wiki 知识库"
+  short_description: "把材料增量整理到现有 Obsidian 知识库，保留原文、来源与关联知识"
+  default_prompt: "使用 $obsidian-llm-wiki 将我提供的材料整理到现有知识库，保留原文，增量更新相关知识页、索引和日志。"

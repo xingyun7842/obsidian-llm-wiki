@@ -1,0 +1,14 @@
+{
+  "skill": "obsidian-llm-wiki",
+  "export_date": "2026-10-26",
+  "source_commit": "4e782c0c856a10d8dd652cab8cdd9f6c317d200a",
+  "export_method": "clean source snapshot; no private Git history",
+  "public_export_changes": [
+    ".gitignore",
+    "SKILL.md",
+    "references/ingest.md",
+    "references/page-schema.md",
+    "references/vault-profile.md"
+  ],
+  "excluded": "private vault, business records, chat, credentials, local evidence, caches and source Git history"
+}
